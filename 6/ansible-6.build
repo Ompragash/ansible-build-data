@@ -1,7 +1,7 @@
 _ansible_version: 6
 _ansible_core_version: 2.13.0
 amazon.aws: >=3.2.0,<4.0.0
-ansible.netcommon: >=3.0.0,<4.0.0
+ansible.netcommon: >=0.0.0,<1.0.0
 ansible.posix: >=1.4.0,<2.0.0
 ansible.utils: >=2.6.0,<3.0.0
 ansible.windows: >=1.10.0,<2.0.0
